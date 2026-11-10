@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+temp_*
+*.tmp
+*.log
