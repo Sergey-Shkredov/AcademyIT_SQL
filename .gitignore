@@ -1,4 +1,6 @@
-# Python
+# Python scripts & local automation (не выносим в GitHub)
+scripts/
+*.py
 __pycache__/
 *.pyc
 *.pyo
